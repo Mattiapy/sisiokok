@@ -1,0 +1,4 @@
+AAPL
+GOOG
+TXT
+A2A.MI
