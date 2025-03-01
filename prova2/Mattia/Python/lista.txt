@@ -1,0 +1,4 @@
+﻿AAPL x
+GOOG x
+TXT x
+A2A.MI 
